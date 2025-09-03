@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 # Page Config
 # -------------------------------
 st.set_page_config(page_title="📊 Stock Price Forecast Dashboard", layout="wide")
-st.title("🚀 Stock Price Prediction Dashboard")
+st.title("🚀 Time Series Analysis of Stock Price Forecasting using LSTM/RNN/GRU")
 
 # -------------------------------
 # Load Scaler + Models
