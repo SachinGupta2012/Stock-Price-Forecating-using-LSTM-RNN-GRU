@@ -226,14 +226,9 @@ You can expose these as **Streamlit controls** if desired.
 
 ---
 
-## 🖼️ Screenshots
-
-> Add your own images under `docs/images/` and reference them here.
-
-* App Home (Model selector, metrics)
-* Full‑series Actual vs Predicted line chart
-* Residuals bar chart & error heatmap
-* Styled predictions table
+## Streamlit App
+* Check out the project by clicking the link below:
+  https://time-series--analysis.streamlit.app/
 
 ---
 
