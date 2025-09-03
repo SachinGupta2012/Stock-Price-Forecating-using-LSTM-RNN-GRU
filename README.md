@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction (RNN • LSTM • GRU)
+# 📈 Time Series Analysis of Stock Price Forecasting using Deep Learning (RNN • LSTM • GRU)
 
 An end‑to‑end deep learning project for **time‑series stock price forecasting** built with **TensorFlow/Keras** and deployed with **Streamlit**. The app lets you **switch between RNN, LSTM, and GRU models**, view **full‑series Actual vs Predicted** lines, and explore **modern visualizations** (bar charts, error heatmaps, styled tables) with **evaluation metrics** (RMSE, MAE, MAPE).
 
